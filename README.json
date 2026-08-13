@@ -1,0 +1,190 @@
+{
+  "items": [
+    {
+      "description": "Model Context Protocol (MCP) enables AI agents to interact with external tools and services. These MCP servers extend Amp's capabilities:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Use MCP",
+          "description": "Official examples and utilities for MCP usage.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-01-12T22:50:06Z",
+            "owner": "modelcontextprotocol",
+            "repo": "use-mcp",
+            "stars": 1028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultimate MCP Client",
+          "description": "Comprehensive MCP client for testing and debugging servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-22T01:34:15Z",
+            "owner": "Dicklesworthstone",
+            "repo": "ultimate_mcp_client",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Advisor",
+          "description": "Tool to help discover and configure MCP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-07T06:31:15Z",
+            "owner": "istarwyh",
+            "repo": "mcpadvisor",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CleanShot MCP",
+          "description": "MCP server for CleanShot X screenshot and recording integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-06T00:13:45Z",
+            "owner": "jdorfman",
+            "repo": "cleanshot-mcp",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "MCP Servers"
+    },
+    {
+      "description": "Documentation & Guides:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unofficial Amp CLI Documentation",
+          "description": "Comprehensive documentation for Amp CLI with examples and best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-09T14:19:34Z",
+            "owner": "lfglabs-dev",
+            "repo": "awesome-amp-code",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File-Based Amp Prompting Workflows",
+          "description": "Collection of file-based sub-agent orchestration workflows for Amp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-27T15:38:52Z",
+            "owner": "PriNova",
+            "repo": "amp-prompting-workflows",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Projects & Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "amp.nvim",
+          "description": "Official Neovim plugin for Amp coding agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-03T03:03:27Z",
+            "owner": "ampcode",
+            "repo": "amp.nvim",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amp ACP",
+          "description": "ACP adapter for Amp Code, enabling Amp to work in the Zed editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T23:18:02Z",
+            "owner": "tao12345666333",
+            "repo": "amp-acp",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amp.el",
+          "description": "Emacs integration for Amp coding agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2025-06-15T09:33:50Z",
+            "owner": "shaneikennedy",
+            "repo": "amp.el",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvim-amp",
+          "description": "Neovim plugin providing syntax highlighting and support for Amp permission and agent files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vim Script",
+            "last_commit": "2025-09-24T16:15:21Z",
+            "owner": "aliou",
+            "repo": "nvim-amp",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Editor & IDE Integrations"
+    },
+    {
+      "description": "Amp CLI can be integrated with other command-line tools. Use the flag for execute mode or pipe input directly:",
+      "items": [],
+      "title": "CLI Usage"
+    },
+    {
+      "description": "Contributions of any kind welcome, just follow the guidelines!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Thanks goes to these contributors!",
+      "items": [],
+      "title": "Contributors"
+    },
+    {
+      "description": "Originally created and maintained by Justin Dorfman.",
+      "items": [],
+      "title": "Credits"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:45:47.338Z",
+    "original_repository": "lfglabs-dev/awesome-amp-code",
+    "original_repository_sha": "e2d4000951d98d04a9cca7ef58fba179cfd17cf1",
+    "enhanced_repository": "enhansome/enhansome-amp-code",
+    "enhanced_repository_description": null,
+    "title": "Awesome Amp Code with stars"
+  }
+}

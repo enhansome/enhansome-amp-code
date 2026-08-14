@@ -56,7 +56,7 @@
             "last_commit": "2025-07-06T00:13:45Z",
             "owner": "jdorfman",
             "repo": "cleanshot-mcp",
-            "stars": 10
+            "stars": 9
           }
         }
       ],
@@ -180,7 +180,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:45:47.338Z",
+    "last_updated": "2026-08-14T17:41:34.687Z",
     "original_repository": "lfglabs-dev/awesome-amp-code",
     "original_repository_sha": "e2d4000951d98d04a9cca7ef58fba179cfd17cf1",
     "enhanced_repository": "enhansome/enhansome-amp-code",

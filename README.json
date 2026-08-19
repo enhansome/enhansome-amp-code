@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 996042662,
             "language": "TypeScript",
             "last_commit": "2026-01-12T22:50:06Z",
             "owner": "modelcontextprotocol",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 962698126,
             "language": "Python",
             "last_commit": "2026-03-22T01:34:15Z",
             "owner": "Dicklesworthstone",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 975914104,
             "language": "TypeScript",
             "last_commit": "2026-03-07T06:31:15Z",
             "owner": "istarwyh",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1013996574,
             "language": "JavaScript",
             "last_commit": "2025-07-06T00:13:45Z",
             "owner": "jdorfman",
@@ -63,7 +67,7 @@
       "title": "MCP Servers"
     },
     {
-      "description": "Documentation & Guides:",
+      "description": "Documentation & Guides:\nDevelopment Tools:\nApplications Built with Amp:\nBrowser & Misc:",
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 978091667,
             "language": null,
             "last_commit": "2026-02-09T14:19:34Z",
             "owner": "lfglabs-dev",
@@ -86,18 +91,109 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1011820633,
             "language": null,
             "last_commit": "2025-07-27T15:38:52Z",
             "owner": "PriNova",
             "repo": "amp-prompting-workflows",
             "stars": 27
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Tokscale",
+          "description": "CLI tool for tracking token usage from AmpCode and other coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1107676388,
+            "language": "Rust",
+            "last_commit": "2026-08-19T02:59:21Z",
+            "owner": "junhoyeo",
+            "repo": "tokscale",
+            "stars": 5043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sandboxed.sh",
+          "description": "Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1116744615,
+            "language": "Rust",
+            "last_commit": "2026-08-19T10:12:25Z",
+            "owner": "Th0rgal",
+            "repo": "sandboxed.sh",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sniff",
+          "description": "Misalignment detection in Vibe Coding loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1018784103,
+            "language": "Rust",
+            "last_commit": "2025-07-30T19:36:25Z",
+            "owner": "conikeec",
+            "repo": "sniff",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeForge",
+          "description": "Golang Development tool built with Amp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1011164100,
+            "language": "Go",
+            "last_commit": "2025-08-14T01:09:06Z",
+            "owner": "eas4ai",
+            "repo": "codeforge",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unofficial Amp Supervisor",
+          "description": "TUI control panel for managing multiple Amp CLI instances in parallel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 992256269,
+            "language": "TypeScript",
+            "last_commit": "2025-05-28T21:37:00Z",
+            "owner": "ctrl-cheeb-del",
+            "repo": "manager",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amp Code Review CI",
+          "description": "Continuous integration tool for automated code reviews using Amp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1011869771,
+            "language": null,
+            "last_commit": "2025-07-01T13:16:10Z",
+            "owner": "madhukarkumar",
+            "repo": "amp-code-review-ci",
+            "stars": 3
+          }
         }
       ],
       "title": "Projects & Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -106,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1054731945,
             "language": "Lua",
             "last_commit": "2026-08-03T03:03:27Z",
             "owner": "ampcode",
@@ -120,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1079177786,
             "language": "TypeScript",
             "last_commit": "2026-07-31T23:18:02Z",
             "owner": "tao12345666333",
@@ -134,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 997464959,
             "language": "Emacs Lisp",
             "last_commit": "2025-06-15T09:33:50Z",
             "owner": "shaneikennedy",
@@ -148,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1054397073,
             "language": "Vim Script",
             "last_commit": "2025-09-24T16:15:21Z",
             "owner": "aliou",
@@ -157,31 +257,12 @@
         }
       ],
       "title": "Editor & IDE Integrations"
-    },
-    {
-      "description": "Amp CLI can be integrated with other command-line tools. Use the flag for execute mode or pipe input directly:",
-      "items": [],
-      "title": "CLI Usage"
-    },
-    {
-      "description": "Contributions of any kind welcome, just follow the guidelines!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Thanks goes to these contributors!",
-      "items": [],
-      "title": "Contributors"
-    },
-    {
-      "description": "Originally created and maintained by Justin Dorfman.",
-      "items": [],
-      "title": "Credits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:13:28.137Z",
+    "last_updated": "2026-08-19T12:19:34.686Z",
     "original_repository": "lfglabs-dev/awesome-amp-code",
+    "original_repository_id": 978091667,
     "original_repository_sha": "e2d4000951d98d04a9cca7ef58fba179cfd17cf1",
     "enhanced_repository": "enhansome/enhansome-amp-code",
     "enhanced_repository_description": null,

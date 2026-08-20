@@ -108,10 +108,10 @@
             "archived": false,
             "id": 1107676388,
             "language": "Rust",
-            "last_commit": "2026-08-19T02:59:21Z",
+            "last_commit": "2026-08-20T10:50:37Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5047
+            "stars": 5069
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 1116744615,
             "language": "Rust",
-            "last_commit": "2026-08-19T15:41:38Z",
+            "last_commit": "2026-08-20T11:02:35Z",
             "owner": "Th0rgal",
             "repo": "sandboxed.sh",
-            "stars": 486
+            "stars": 488
           }
         },
         {
@@ -260,7 +260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:12:27.652Z",
+    "last_updated": "2026-08-20T17:14:56.350Z",
     "original_repository": "lfglabs-dev/awesome-amp-code",
     "original_repository_id": 978091667,
     "original_repository_sha": "e2d4000951d98d04a9cca7ef58fba179cfd17cf1",

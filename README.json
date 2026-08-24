@@ -111,7 +111,7 @@
             "last_commit": "2026-08-22T12:24:05Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5130
+            "stars": 5147
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2025-07-30T19:36:25Z",
             "owner": "conikeec",
             "repo": "sniff",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -187,6 +187,36 @@
             "owner": "madhukarkumar",
             "repo": "amp-code-review-ci",
             "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CircuitPython Deploy",
+          "description": "CircuitPython deployment tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1010662177,
+            "language": "Rust",
+            "last_commit": "2025-06-29T16:20:23Z",
+            "owner": "shantanugoel",
+            "repo": "circuitpython-deploy",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sourcegraph Amp AUR",
+          "description": "Arch Linux AUR package for Sourcegraph Amp.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 997214636,
+            "language": "Shell",
+            "last_commit": "2025-11-18T00:06:38Z",
+            "owner": "AnirudhKonduru",
+            "repo": "sourcegraph-amp-aur",
+            "stars": 1
           }
         }
       ],
@@ -260,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:08:35.208Z",
+    "last_updated": "2026-08-24T14:43:15.360Z",
     "original_repository": "lfglabs-dev/awesome-amp-code",
     "original_repository_id": 978091667,
     "original_repository_sha": "e2d4000951d98d04a9cca7ef58fba179cfd17cf1",

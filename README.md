@@ -85,9 +85,9 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 **Development Tools:**
 
-* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,130 | 🐛 74 | 🌐 Rust | 📅 2026-08-22 - CLI tool for tracking token usage from AmpCode and other coding agents.
+* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,147 | 🐛 80 | 🌐 Rust | 📅 2026-08-22 - CLI tool for tracking token usage from AmpCode and other coding agents.
 * [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 490 | 🐛 15 | 🌐 Rust | 📅 2026-08-20 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
-* [Sniff](https://github.com/conikeec/sniff) ⭐ 20 | 🐛 0 | 🌐 Rust | 📅 2025-07-30 - Misalignment detection in Vibe Coding loops.
+* [Sniff](https://github.com/conikeec/sniff) ⭐ 21 | 🐛 0 | 🌐 Rust | 📅 2025-07-30 - Misalignment detection in Vibe Coding loops.
 * [CodeForge](https://github.com/entrepeneur4lyf/CodeForge) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2025-08-14 - Golang Development tool built with Amp.
 * [Unofficial Amp Supervisor](https://github.com/ctrl-cheeb-del/manager) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-28 - TUI control panel for managing multiple Amp CLI instances in parallel.
 * [Amp Code Review CI](https://github.com/madhukarkumar/amp-code-review-ci) ⭐ 3 | 🐛 0 | 📅 2025-07-01 - Continuous integration tool for automated code reviews using Amp.
@@ -95,6 +95,7 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 **Applications Built with Amp:**
 
+* [CircuitPython Deploy](https://github.com/shantanugoel/circuitpython-deploy) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-06-29 - CircuitPython deployment tool.
 * [Jazzberry AI](https://jazzberry.ai/) - The AI Bug Finder.
 * [0.email](https://0.email/) - AI-native email client that manages your inbox.
 * [Remote Code](https://remote-code.com/) - Mobile coding platform that brings AI coding agents to your iPhone.
@@ -103,12 +104,11 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 * [HTTPie Collection Viewer](https://httpie.bolaji.de/) - Upload and explore your HTTPie collections.
 * [Quad Ops](https://trly.github.io/quad-ops/) - Lightweight GitOps framework for podman containers.
 * [PromptVault](https://hex.pm/packages/prompt_vault) - Library for managing prompts and templates in Elixir.
-* [CircuitPython Deploy](https://github.com/shantanugoel/circuitpython-deploy) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-06-29 - CircuitPython deployment tool.
 
 **Browser & Misc:**
 
-* [Sourcegraph Chrome Extension](https://chromewebstore.google.com/detail/sourcegraph/dgjhfomjieaadpoljlnidmbg) - Chrome extension for code search and navigation.
 * [Sourcegraph Amp AUR](https://github.com/AnirudhKonduru/sourcegraph-amp-aur) ⚠️ Archived - Arch Linux AUR package for Sourcegraph Amp.
+* [Sourcegraph Chrome Extension](https://chromewebstore.google.com/detail/sourcegraph/dgjhfomjieaadpoljlnidmbg) - Chrome extension for code search and navigation.
 
 ### Editor & IDE Integrations
 
@@ -172,4 +172,4 @@ Originally created and maintained by [Justin Dorfman](https://www.justindorfman.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

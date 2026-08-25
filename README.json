@@ -108,10 +108,10 @@
             "archived": false,
             "id": 1107676388,
             "language": "Rust",
-            "last_commit": "2026-08-24T22:47:23Z",
+            "last_commit": "2026-08-25T14:21:05Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5150
+            "stars": 5160
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:41.903Z",
+    "last_updated": "2026-08-25T17:18:36.468Z",
     "original_repository": "lfglabs-dev/awesome-amp-code",
     "original_repository_id": 978091667,
     "original_repository_sha": "e2d4000951d98d04a9cca7ef58fba179cfd17cf1",

@@ -27,7 +27,7 @@
             "archived": false,
             "id": 962698126,
             "language": "Python",
-            "last_commit": "2026-08-21T18:50:05Z",
+            "last_commit": "2026-08-26T15:52:53Z",
             "owner": "Dicklesworthstone",
             "repo": "ultimate_mcp_client",
             "stars": 149
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 1107676388,
             "language": "Rust",
-            "last_commit": "2026-08-25T14:21:05Z",
+            "last_commit": "2026-08-26T08:12:25Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5160
+            "stars": 5174
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-07-31T23:18:02Z",
             "owner": "tao12345666333",
             "repo": "amp-acp",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:18:36.468Z",
+    "last_updated": "2026-08-26T18:28:36.613Z",
     "original_repository": "lfglabs-dev/awesome-amp-code",
     "original_repository_id": 978091667,
     "original_repository_sha": "e2d4000951d98d04a9cca7ef58fba179cfd17cf1",

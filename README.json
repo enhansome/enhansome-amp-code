@@ -108,10 +108,10 @@
             "archived": false,
             "id": 1107676388,
             "language": "Rust",
-            "last_commit": "2026-08-26T08:12:25Z",
+            "last_commit": "2026-08-27T08:47:59Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5174
+            "stars": 5182
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 1079177786,
             "language": "TypeScript",
-            "last_commit": "2026-07-31T23:18:02Z",
+            "last_commit": "2026-08-27T06:14:02Z",
             "owner": "tao12345666333",
             "repo": "amp-acp",
             "stars": 87
@@ -290,9 +290,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:28:36.613Z",
-    "original_repository": "lfglabs-dev/awesome-amp-code",
-    "original_repository_id": 978091667,
+    "last_updated": "2026-08-27T11:19:05.572Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 978091667,
+      "language": null,
+      "last_commit": "2026-02-09T14:19:34Z",
+      "owner": "lfglabs-dev",
+      "repo": "awesome-amp-code",
+      "stars": 76
+    },
     "original_repository_sha": "e2d4000951d98d04a9cca7ef58fba179cfd17cf1",
     "enhanced_repository": "enhansome/enhansome-amp-code",
     "enhanced_repository_description": null,

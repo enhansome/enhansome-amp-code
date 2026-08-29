@@ -16,7 +16,8 @@
             "owner": "modelcontextprotocol",
             "repo": "use-mcp",
             "stars": 1028
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Dicklesworthstone",
             "repo": "ultimate_mcp_client",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "istarwyh",
             "repo": "mcpadvisor",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "jdorfman",
             "repo": "cleanshot-mcp",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         }
       ],
       "title": "MCP Servers"
@@ -82,7 +86,8 @@
             "owner": "lfglabs-dev",
             "repo": "awesome-amp-code",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "PriNova",
             "repo": "amp-prompting-workflows",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 1107676388,
             "language": "Rust",
-            "last_commit": "2026-08-27T22:48:11Z",
+            "last_commit": "2026-08-28T21:12:04Z",
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5187
-          }
+            "stars": 5204
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2026-08-27T16:24:56Z",
             "owner": "Th0rgal",
             "repo": "sandboxed.sh",
-            "stars": 491
-          }
+            "stars": 492
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "conikeec",
             "repo": "sniff",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "eas4ai",
             "repo": "codeforge",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "ctrl-cheeb-del",
             "repo": "manager",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "madhukarkumar",
             "repo": "amp-code-review-ci",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "shantanugoel",
             "repo": "circuitpython-deploy",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "AnirudhKonduru",
             "repo": "sourcegraph-amp-aur",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         }
       ],
       "title": "Projects & Tools"
@@ -238,7 +252,8 @@
             "owner": "ampcode",
             "repo": "amp.nvim",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "tao12345666333",
             "repo": "amp-acp",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "shaneikennedy",
             "repo": "amp.el",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         },
         {
           "node_type": "item",
@@ -283,14 +300,15 @@
             "owner": "aliou",
             "repo": "nvim-amp",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:45:00.995Z"
         }
       ],
       "title": "Editor & IDE Integrations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:10:49.465Z",
+    "last_updated": "2026-08-29T00:45:00.995Z",
     "original_repository_info": {
       "archived": false,
       "id": 978091667,

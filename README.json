@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 996042662,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-12T22:50:06Z",
+            "open_issues": 20,
             "owner": "modelcontextprotocol",
             "repo": "use-mcp",
-            "stars": 1028
+            "stars": 1028,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -26,12 +31,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async Python client for the Model Context Protocol with interactive CLI and reactive Web UI, connecting AI models to MCP servers via stdio and SSE",
+            "homepage": null,
             "id": 962698126,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T15:52:53Z",
+            "open_issues": 0,
             "owner": "Dicklesworthstone",
             "repo": "ultimate_mcp_client",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "ai-agents",
+              "cli",
+              "mcp",
+              "python",
+              "web-ui"
+            ]
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -42,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP Advisor & Installation - Use the right MCP server for your needs",
+            "homepage": null,
             "id": 975914104,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-07T06:31:15Z",
+            "open_issues": 7,
             "owner": "istarwyh",
             "repo": "mcpadvisor",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -58,12 +79,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP server for CleanShot X (macOS)",
+            "homepage": null,
             "id": 1013996574,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-06T00:13:45Z",
+            "open_issues": 0,
             "owner": "jdorfman",
             "repo": "cleanshot-mcp",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "cleanshot",
+              "macos",
+              "mcp",
+              "mcp-server",
+              "screenshot",
+              "screenshots"
+            ]
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         }
@@ -80,12 +113,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unofficial curated list of resources for Amp, an AI coding agent.",
+            "homepage": null,
             "id": 978091667,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-02-09T14:19:34Z",
+            "open_issues": 1,
             "owner": "lfglabs-dev",
             "repo": "awesome-amp-code",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "amp-cli",
+              "ampcode",
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -96,12 +139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helpful, quality prompts for full SDLC.",
+            "homepage": null,
             "id": 1011820633,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-27T15:38:52Z",
+            "open_issues": 0,
             "owner": "PriNova",
             "repo": "amp-prompting-workflows",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -112,12 +160,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.",
+            "homepage": "https://tokscale.ai",
             "id": 1107676388,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:12:04Z",
+            "open_issues": 68,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5204
+            "stars": 5206,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ampcode",
+              "claude",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "cursor",
+              "cursor-ide",
+              "droid",
+              "gemini",
+              "gemini-cli",
+              "gpt",
+              "hermes",
+              "moltbot",
+              "oh",
+              "openclaw",
+              "opencode",
+              "opentui",
+              "token-usage"
+            ]
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -128,12 +202,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safe runtime for autonomous on-chain AI agents: isolated sandboxes, Library skills, encrypted secrets.",
+            "homepage": "https://sandboxed.sh",
             "id": 1116744615,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-27T16:24:56Z",
+            "open_issues": 16,
             "owner": "Th0rgal",
             "repo": "sandboxed.sh",
-            "stars": 492
+            "stars": 492,
+            "topics": [
+              "ai-agents",
+              "autonomous-agents",
+              "claude",
+              "claude-code",
+              "coding-assistant",
+              "containerization",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "okx",
+              "opencode",
+              "orchestration",
+              "self-hosted",
+              "web3",
+              "workspace-isolation",
+              "xagent-hackathon"
+            ]
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -144,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sniff: Misalignment detection in Vibe Coding loops",
+            "homepage": null,
             "id": 1018784103,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-07-30T19:36:25Z",
+            "open_issues": 0,
             "owner": "conikeec",
             "repo": "sniff",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -160,12 +261,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered coding assistant that provides intelligent, adaptive code assistance through comprehensive LLM support.",
+            "homepage": null,
             "id": 1011164100,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-08-14T01:09:06Z",
+            "open_issues": 0,
             "owner": "eas4ai",
             "repo": "codeforge",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -176,12 +282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TUI control panel and supervisor for managing multiple Amp CLI instances in parallel.",
+            "homepage": null,
             "id": 992256269,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-05-28T21:37:00Z",
+            "open_issues": 0,
             "owner": "ctrl-cheeb-del",
             "repo": "manager",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -192,12 +303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Github action using Amp CLI for code review",
+            "homepage": null,
             "id": 1011869771,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-01T13:16:10Z",
+            "open_issues": 0,
             "owner": "madhukarkumar",
             "repo": "amp-code-review-ci",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -208,12 +324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to deploy current project folder to circuitpython board",
+            "homepage": null,
             "id": 1010662177,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-06-29T16:20:23Z",
+            "open_issues": 0,
             "owner": "shantanugoel",
             "repo": "circuitpython-deploy",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -224,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 997214636,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-11-18T00:06:38Z",
+            "open_issues": 3,
             "owner": "AnirudhKonduru",
             "repo": "sourcegraph-amp-aur",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         }
@@ -246,12 +372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1054731945,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T03:03:27Z",
+            "open_issues": 6,
             "owner": "ampcode",
             "repo": "amp.nvim",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -262,12 +393,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACP adapter for Amp Code",
+            "homepage": null,
             "id": 1079177786,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T06:14:02Z",
+            "open_issues": 11,
             "owner": "tao12345666333",
             "repo": "amp-acp",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "acp",
+              "amp",
+              "ampcode",
+              "coding-agent",
+              "zed"
+            ]
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -278,12 +420,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vibe coding in emacs with amp",
+            "homepage": null,
             "id": 997464959,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2025-06-15T09:33:50Z",
+            "open_issues": 1,
             "owner": "shaneikennedy",
             "repo": "amp.el",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "amp",
+              "emacs",
+              "sourcegraph",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         },
@@ -294,12 +446,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 1054397073,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2025-09-24T16:15:21Z",
+            "open_issues": 0,
             "owner": "aliou",
             "repo": "nvim-amp",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "amp-cli",
+              "ampcode",
+              "sourcegraph"
+            ]
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
         }
@@ -308,15 +469,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:45:00.995Z",
+    "last_updated": "2026-08-29T05:01:49.717Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An unofficial curated list of resources for Amp, an AI coding agent.",
+      "homepage": null,
       "id": 978091667,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-02-09T14:19:34Z",
+      "open_issues": 1,
       "owner": "lfglabs-dev",
       "repo": "awesome-amp-code",
-      "stars": 76
+      "stars": 76,
+      "topics": [
+        "amp-cli",
+        "ampcode",
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "e2d4000951d98d04a9cca7ef58fba179cfd17cf1",
     "enhanced_repository": "enhansome/enhansome-amp-code",

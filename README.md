@@ -85,7 +85,7 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 **Development Tools:**
 
-* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,206 | 🐛 68 | 🌐 Rust | 📅 2026-08-28 - CLI tool for tracking token usage from AmpCode and other coding agents.
+* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,210 | 🐛 70 | 🌐 Rust | 📅 2026-08-29 - CLI tool for tracking token usage from AmpCode and other coding agents.
 * [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 492 | 🐛 16 | 🌐 Rust | 📅 2026-08-27 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
 * [Sniff](https://github.com/conikeec/sniff) ⭐ 21 | 🐛 0 | 🌐 Rust | 📅 2025-07-30 - Misalignment detection in Vibe Coding loops.
 * [CodeForge](https://github.com/entrepeneur4lyf/CodeForge) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2025-08-14 - Golang Development tool built with Amp.

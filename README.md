@@ -80,12 +80,12 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 **Documentation & Guides:**
 
-* [Unofficial Amp CLI Documentation](https://github.com/lfglabs-dev/awesome-amp-code/blob/main/docs/amp_cli_docs.md) ⭐ 76 | 🐛 1 | 📅 2026-02-09 - Comprehensive documentation for Amp CLI with examples and best practices.
+* [Unofficial Amp CLI Documentation](https://github.com/lfglabs-dev/awesome-amp-code/blob/main/docs/amp_cli_docs.md) ⭐ 77 | 🐛 1 | 📅 2026-02-09 - Comprehensive documentation for Amp CLI with examples and best practices.
 * [File-Based Amp Prompting Workflows](https://github.com/PriNova/amp-prompting-workflows) ⭐ 27 | 🐛 0 | 📅 2025-07-27 - Collection of file-based sub-agent orchestration workflows for Amp.
 
 **Development Tools:**
 
-* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,210 | 🐛 70 | 🌐 Rust | 📅 2026-08-29 - CLI tool for tracking token usage from AmpCode and other coding agents.
+* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,219 | 🐛 64 | 🌐 Rust | 📅 2026-08-30 - CLI tool for tracking token usage from AmpCode and other coding agents.
 * [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 492 | 🐛 16 | 🌐 Rust | 📅 2026-08-27 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
 * [Sniff](https://github.com/conikeec/sniff) ⭐ 21 | 🐛 0 | 🌐 Rust | 📅 2025-07-30 - Misalignment detection in Vibe Coding loops.
 * [CodeForge](https://github.com/entrepeneur4lyf/CodeForge) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2025-08-14 - Golang Development tool built with Amp.
@@ -113,7 +113,7 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 ### Editor & IDE Integrations
 
 * [amp.nvim](https://github.com/sourcegraph/amp.nvim) ⭐ 200 | 🐛 6 | 🌐 Lua | 📅 2026-08-03 - Official Neovim plugin for Amp coding agent.
-* [Amp ACP](https://github.com/tao12345666333/amp-acp) ⭐ 87 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-27 - ACP adapter for Amp Code, enabling Amp to work in the Zed editor.
+* [Amp ACP](https://github.com/tao12345666333/amp-acp) ⭐ 88 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-27 - ACP adapter for Amp Code, enabling Amp to work in the Zed editor.
 * [amp.el](https://github.com/shaneikennedy/amp.el) ⭐ 20 | 🐛 1 | 🌐 Emacs Lisp | 📅 2025-06-15 - Emacs integration for Amp coding agent.
 * [nvim-amp](https://github.com/aliou/nvim-amp) ⚠️ Archived - Neovim plugin providing syntax highlighting and support for Amp permission and agent files.
 * [MyScratchpad VS Code Extension](https://marketplace.visualstudio.com/items?itemName=jccoder.myscratchpad) - VS Code extension for global and workspace-specific scratch files.
@@ -162,7 +162,7 @@ When using AI coding agents, consider these security aspects:
 
 #### Contributors
 
-[Thanks goes to these contributors](https://github.com/lfglabs-dev/awesome-amp-code/graphs/contributors) ⭐ 76 | 🐛 1 | 📅 2026-02-09!
+[Thanks goes to these contributors](https://github.com/lfglabs-dev/awesome-amp-code/graphs/contributors) ⭐ 77 | 🐛 1 | 📅 2026-02-09!
 
 ***
 
@@ -172,4 +172,4 @@ Originally created and maintained by [Justin Dorfman](https://www.justindorfman.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

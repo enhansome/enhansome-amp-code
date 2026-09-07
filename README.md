@@ -80,13 +80,13 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 **Documentation & Guides:**
 
-* [Unofficial Amp CLI Documentation](https://github.com/lfglabs-dev/awesome-amp-code/blob/main/docs/amp_cli_docs.md) ⭐ 77 | 🐛 1 | 📅 2026-02-09 - Comprehensive documentation for Amp CLI with examples and best practices.
+* [Unofficial Amp CLI Documentation](https://github.com/lfglabs-dev/awesome-amp-code/blob/main/docs/amp_cli_docs.md) ⭐ 77 | 🐛 2 | 📅 2026-02-09 - Comprehensive documentation for Amp CLI with examples and best practices.
 * [File-Based Amp Prompting Workflows](https://github.com/PriNova/amp-prompting-workflows) ⭐ 27 | 🐛 0 | 📅 2025-07-27 - Collection of file-based sub-agent orchestration workflows for Amp.
 
 **Development Tools:**
 
-* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,325 | 🐛 78 | 🌐 Rust | 📅 2026-09-06 - CLI tool for tracking token usage from AmpCode and other coding agents.
-* [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 499 | 🐛 15 | 🌐 Rust | 📅 2026-09-05 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
+* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,343 | 🐛 66 | 🌐 Rust | 📅 2026-09-07 - CLI tool for tracking token usage from AmpCode and other coding agents.
+* [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 505 | 🐛 17 | 🌐 Rust | 📅 2026-09-07 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
 * [Sniff](https://github.com/conikeec/sniff) ⭐ 21 | 🐛 0 | 🌐 Rust | 📅 2025-07-30 - Misalignment detection in Vibe Coding loops.
 * [CodeForge](https://github.com/entrepeneur4lyf/CodeForge) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2025-08-14 - Golang Development tool built with Amp.
 * [Unofficial Amp Supervisor](https://github.com/ctrl-cheeb-del/manager) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-28 - TUI control panel for managing multiple Amp CLI instances in parallel.
@@ -162,7 +162,7 @@ When using AI coding agents, consider these security aspects:
 
 #### Contributors
 
-[Thanks goes to these contributors](https://github.com/lfglabs-dev/awesome-amp-code/graphs/contributors) ⭐ 77 | 🐛 1 | 📅 2026-02-09!
+[Thanks goes to these contributors](https://github.com/lfglabs-dev/awesome-amp-code/graphs/contributors) ⭐ 77 | 🐛 2 | 📅 2026-02-09!
 
 ***
 
@@ -172,4 +172,4 @@ Originally created and maintained by [Justin Dorfman](https://www.justindorfman.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

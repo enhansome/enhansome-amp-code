@@ -165,11 +165,11 @@
             "id": 1107676388,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-10T15:47:39Z",
+            "last_commit": "2026-09-11T16:02:58Z",
             "open_issues": 64,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5384,
+            "stars": 5401,
             "topics": [
               "ai",
               "ai-agents",
@@ -207,11 +207,11 @@
             "id": 1116744615,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-10T17:37:51Z",
+            "last_commit": "2026-09-10T21:24:49Z",
             "open_issues": 16,
             "owner": "Th0rgal",
             "repo": "sandboxed.sh",
-            "stars": 508,
+            "stars": 509,
             "topics": [
               "ai-agents",
               "autonomous-agents",
@@ -469,7 +469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:18:38.562Z",
+    "last_updated": "2026-09-11T19:19:32.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "An unofficial curated list of resources for Amp, an AI coding agent.",

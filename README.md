@@ -85,8 +85,8 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 **Development Tools:**
 
-* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,384 | 🐛 64 | 🌐 Rust | 📅 2026-09-10 - CLI tool for tracking token usage from AmpCode and other coding agents.
-* [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 508 | 🐛 16 | 🌐 Rust | 📅 2026-09-10 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
+* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,401 | 🐛 64 | 🌐 Rust | 📅 2026-09-11 - CLI tool for tracking token usage from AmpCode and other coding agents.
+* [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 509 | 🐛 16 | 🌐 Rust | 📅 2026-09-10 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
 * [Sniff](https://github.com/conikeec/sniff) ⭐ 22 | 🐛 0 | 🌐 Rust | 📅 2025-07-30 - Misalignment detection in Vibe Coding loops.
 * [CodeForge](https://github.com/entrepeneur4lyf/CodeForge) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2025-08-14 - Golang Development tool built with Amp.
 * [Unofficial Amp Supervisor](https://github.com/ctrl-cheeb-del/manager) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-28 - TUI control panel for managing multiple Amp CLI instances in parallel.
@@ -172,4 +172,4 @@ Originally created and maintained by [Justin Dorfman](https://www.justindorfman.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

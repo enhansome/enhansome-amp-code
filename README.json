@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Dicklesworthstone",
             "repo": "ultimate_mcp_client",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "ai-agents",
               "cli",
@@ -119,7 +119,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-02-09T14:19:34Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "lfglabs-dev",
             "repo": "awesome-amp-code",
             "stars": 77,
@@ -165,11 +165,11 @@
             "id": 1107676388,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:02:58Z",
-            "open_issues": 64,
+            "last_commit": "2026-09-12T02:43:54Z",
+            "open_issues": 67,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5401,
+            "stars": 5411,
             "topics": [
               "ai",
               "ai-agents",
@@ -469,7 +469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:19:32.188Z",
+    "last_updated": "2026-09-12T18:49:17.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "An unofficial curated list of resources for Amp, an AI coding agent.",
@@ -478,7 +478,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-02-09T14:19:34Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "lfglabs-dev",
       "repo": "awesome-amp-code",
       "stars": 77,

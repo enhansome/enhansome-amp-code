@@ -62,7 +62,7 @@ AGENTS.md files provide context and instructions to AI coding agents about your 
 
 * [LangGraph](https://sourcegraph.com/github.com/langchain-ai/langgraph/-/blob/AGENTS.md) - LangChain's graph-based agent framework.
 * [Zoekt](https://sourcegraph.com/github.com/sourcegraph/zoekt/-/blob/AGENT.md) - Fast code search by Sourcegraph.
-* [Ultimate MCP Client](https://github.com/Dicklesworthstone/ultimate_mcp_client/blob/main/AGENT.md) ⭐ 149 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - Comprehensive MCP client implementation.
+* [Ultimate MCP Client](https://github.com/Dicklesworthstone/ultimate_mcp_client/blob/main/AGENT.md) ⭐ 150 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - Comprehensive MCP client implementation.
 * [MCP Advisor](https://sourcegraph.com/github.com/istarwyh/mcpadvisor/-/blob/AGENT.md) - MCP server advisor tool.
 * [Use MCP](https://sourcegraph.com/github.com/modelcontextprotocol/use-mcp/-/blob/AGENT.md) - Official MCP usage examples.
 
@@ -71,7 +71,7 @@ AGENTS.md files provide context and instructions to AI coding agents about your 
 Model Context Protocol (MCP) enables AI agents to interact with external tools and services. These MCP servers extend Amp's capabilities:
 
 * [Use MCP](https://github.com/modelcontextprotocol/use-mcp) ⚠️ Archived - Official examples and utilities for MCP usage.
-* [Ultimate MCP Client](https://github.com/Dicklesworthstone/ultimate_mcp_client) ⭐ 149 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - Comprehensive MCP client for testing and debugging servers.
+* [Ultimate MCP Client](https://github.com/Dicklesworthstone/ultimate_mcp_client) ⭐ 150 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - Comprehensive MCP client for testing and debugging servers.
 * [MCP Advisor](https://github.com/istarwyh/mcpadvisor) ⭐ 89 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-07 - Tool to help discover and configure MCP servers.
 * [CleanShot MCP](https://github.com/jdorfman/cleanshot-mcp) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-06 - MCP server for CleanShot X screenshot and recording integration.
 * [llm-rules MCP](https://www.npmjs.com/package/llm-rules) - Access Cursor rules dynamically via MCP.
@@ -80,12 +80,12 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 **Documentation & Guides:**
 
-* [Unofficial Amp CLI Documentation](https://github.com/lfglabs-dev/awesome-amp-code/blob/main/docs/amp_cli_docs.md) ⭐ 77 | 🐛 2 | 📅 2026-02-09 - Comprehensive documentation for Amp CLI with examples and best practices.
+* [Unofficial Amp CLI Documentation](https://github.com/lfglabs-dev/awesome-amp-code/blob/main/docs/amp_cli_docs.md) ⭐ 77 | 🐛 3 | 📅 2026-02-09 - Comprehensive documentation for Amp CLI with examples and best practices.
 * [File-Based Amp Prompting Workflows](https://github.com/PriNova/amp-prompting-workflows) ⭐ 27 | 🐛 0 | 📅 2025-07-27 - Collection of file-based sub-agent orchestration workflows for Amp.
 
 **Development Tools:**
 
-* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,401 | 🐛 64 | 🌐 Rust | 📅 2026-09-11 - CLI tool for tracking token usage from AmpCode and other coding agents.
+* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,411 | 🐛 67 | 🌐 Rust | 📅 2026-09-12 - CLI tool for tracking token usage from AmpCode and other coding agents.
 * [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 509 | 🐛 16 | 🌐 Rust | 📅 2026-09-10 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
 * [Sniff](https://github.com/conikeec/sniff) ⭐ 22 | 🐛 0 | 🌐 Rust | 📅 2025-07-30 - Misalignment detection in Vibe Coding loops.
 * [CodeForge](https://github.com/entrepeneur4lyf/CodeForge) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2025-08-14 - Golang Development tool built with Amp.
@@ -162,7 +162,7 @@ When using AI coding agents, consider these security aspects:
 
 #### Contributors
 
-[Thanks goes to these contributors](https://github.com/lfglabs-dev/awesome-amp-code/graphs/contributors) ⭐ 77 | 🐛 2 | 📅 2026-02-09!
+[Thanks goes to these contributors](https://github.com/lfglabs-dev/awesome-amp-code/graphs/contributors) ⭐ 77 | 🐛 3 | 📅 2026-02-09!
 
 ***
 
@@ -172,4 +172,4 @@ Originally created and maintained by [Justin Dorfman](https://www.justindorfman.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

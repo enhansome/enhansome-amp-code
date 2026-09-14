@@ -88,7 +88,7 @@
             "open_issues": 0,
             "owner": "jdorfman",
             "repo": "cleanshot-mcp",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "cleanshot",
               "macos",
@@ -165,11 +165,11 @@
             "id": 1107676388,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T02:43:54Z",
-            "open_issues": 71,
+            "last_commit": "2026-09-14T02:04:47Z",
+            "open_issues": 68,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5420,
+            "stars": 5431,
             "topics": [
               "ai",
               "ai-agents",
@@ -211,7 +211,7 @@
             "open_issues": 16,
             "owner": "Th0rgal",
             "repo": "sandboxed.sh",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "ai-agents",
               "autonomous-agents",
@@ -398,8 +398,8 @@
             "id": 1079177786,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T16:44:03Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-14T03:33:22Z",
+            "open_issues": 3,
             "owner": "tao12345666333",
             "repo": "amp-acp",
             "stars": 90,
@@ -469,7 +469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T19:00:03.112Z",
+    "last_updated": "2026-09-14T20:38:45.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "An unofficial curated list of resources for Amp, an AI coding agent.",

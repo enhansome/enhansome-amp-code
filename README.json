@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "modelcontextprotocol",
             "repo": "use-mcp",
-            "stars": 1029,
+            "stars": 1030,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
@@ -165,11 +165,11 @@
             "id": 1107676388,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-15T16:33:47Z",
-            "open_issues": 64,
+            "last_commit": "2026-09-15T21:23:36Z",
+            "open_issues": 66,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5443,
+            "stars": 5457,
             "topics": [
               "ai",
               "ai-agents",
@@ -399,7 +399,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T03:33:22Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "tao12345666333",
             "repo": "amp-acp",
             "stars": 90,
@@ -469,7 +469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:51:52.985Z",
+    "last_updated": "2026-09-16T19:45:47.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "An unofficial curated list of resources for Amp, an AI coding agent.",

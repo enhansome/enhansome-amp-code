@@ -166,10 +166,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-25T10:47:56Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5539,
+            "stars": 5548,
             "topics": [
               "ai",
               "ai-agents",
@@ -207,8 +207,8 @@
             "id": 1116744615,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-24T13:30:20Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-26T11:52:03Z",
+            "open_issues": 15,
             "owner": "Th0rgal",
             "repo": "sandboxed.sh",
             "stars": 513,
@@ -249,7 +249,7 @@
             "open_issues": 0,
             "owner": "conikeec",
             "repo": "sniff",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
@@ -398,11 +398,11 @@
             "id": 1079177786,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T06:13:49Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-26T09:40:52Z",
+            "open_issues": 3,
             "owner": "tao12345666333",
             "repo": "amp-acp",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "acp",
               "amp",
@@ -469,7 +469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:09:30.478Z",
+    "last_updated": "2026-09-26T19:27:42.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "An unofficial curated list of resources for Amp, an AI coding agent.",

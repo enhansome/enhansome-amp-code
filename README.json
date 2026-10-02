@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "Dicklesworthstone",
             "repo": "ultimate_mcp_client",
-            "stars": 166,
+            "stars": 168,
             "topics": [
               "ai-agents",
               "cli",
@@ -166,10 +166,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-29T20:33:45Z",
-            "open_issues": 72,
+            "open_issues": 79,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5599,
+            "stars": 5605,
             "topics": [
               "ai",
               "ai-agents",
@@ -207,8 +207,8 @@
             "id": 1116744615,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-01T14:56:01Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-02T18:05:04Z",
+            "open_issues": 16,
             "owner": "Th0rgal",
             "repo": "sandboxed.sh",
             "stars": 513,
@@ -469,7 +469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:25:32.520Z",
+    "last_updated": "2026-10-02T21:03:11.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "An unofficial curated list of resources for Amp, an AI coding agent.",

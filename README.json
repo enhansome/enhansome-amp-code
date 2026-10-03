@@ -108,32 +108,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Unofficial Amp CLI Documentation",
-          "description": "Comprehensive documentation for Amp CLI with examples and best practices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An unofficial curated list of resources for Amp, an AI coding agent.",
-            "homepage": null,
-            "id": 978091667,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-02-09T14:19:34Z",
-            "open_issues": 3,
-            "owner": "lfglabs-dev",
-            "repo": "awesome-amp-code",
-            "stars": 79,
-            "topics": [
-              "amp-cli",
-              "ampcode",
-              "awesome",
-              "awesome-list"
-            ]
-          },
-          "first_seen": "2026-08-29T00:45:00.995Z"
-        },
-        {
-          "node_type": "item",
           "title": "File-Based Amp Prompting Workflows",
           "description": "Collection of file-based sub-agent orchestration workflows for Amp.",
           "children": [],
@@ -166,10 +140,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-29T20:33:45Z",
-            "open_issues": 79,
+            "open_issues": 81,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5605,
+            "stars": 5608,
             "topics": [
               "ai",
               "ai-agents",
@@ -207,8 +181,8 @@
             "id": 1116744615,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-02T18:05:04Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-02T21:43:35Z",
+            "open_issues": 17,
             "owner": "Th0rgal",
             "repo": "sandboxed.sh",
             "stars": 513,
@@ -469,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:03:11.614Z",
+    "last_updated": "2026-10-03T04:36:04.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "An unofficial curated list of resources for Amp, an AI coding agent.",

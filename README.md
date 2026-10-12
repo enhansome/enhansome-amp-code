@@ -72,7 +72,7 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 * [Use MCP](https://github.com/modelcontextprotocol/use-mcp) ⚠️ Archived - Official examples and utilities for MCP usage.
 * [Ultimate MCP Client](https://github.com/Dicklesworthstone/ultimate_mcp_client) ⭐ 171 | 🐛 0 | 🌐 Python | 📅 2026-09-27 - Comprehensive MCP client for testing and debugging servers.
-* [MCP Advisor](https://github.com/istarwyh/mcpadvisor) ⭐ 89 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-11 - Tool to help discover and configure MCP servers.
+* [MCP Advisor](https://github.com/istarwyh/mcpadvisor) ⭐ 89 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-12 - Tool to help discover and configure MCP servers.
 * [CleanShot MCP](https://github.com/jdorfman/cleanshot-mcp) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-06 - MCP server for CleanShot X screenshot and recording integration.
 * [llm-rules MCP](https://www.npmjs.com/package/llm-rules) - Access Cursor rules dynamically via MCP.
 
@@ -85,8 +85,8 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 **Development Tools:**
 
-* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,658 | 🐛 84 | 🌐 Rust | 📅 2026-10-11 - CLI tool for tracking token usage from AmpCode and other coding agents.
-* [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 527 | 🐛 16 | 🌐 Rust | 📅 2026-10-11 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
+* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,667 | 🐛 89 | 🌐 Rust | 📅 2026-10-12 - CLI tool for tracking token usage from AmpCode and other coding agents.
+* [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 527 | 🐛 17 | 🌐 Rust | 📅 2026-10-12 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
 * [Sniff](https://github.com/conikeec/sniff) ⭐ 23 | 🐛 0 | 🌐 Rust | 📅 2025-07-30 - Misalignment detection in Vibe Coding loops.
 * [CodeForge](https://github.com/entrepeneur4lyf/CodeForge) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2025-08-14 - Golang Development tool built with Amp.
 * [Unofficial Amp Supervisor](https://github.com/ctrl-cheeb-del/manager) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-28 - TUI control panel for managing multiple Amp CLI instances in parallel.
@@ -172,4 +172,4 @@ Originally created and maintained by [Justin Dorfman](https://www.justindorfman.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

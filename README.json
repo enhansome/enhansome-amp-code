@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "modelcontextprotocol",
             "repo": "use-mcp",
-            "stars": 1030,
+            "stars": 1029,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
@@ -139,11 +139,11 @@
             "id": 1107676388,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-22T13:55:00Z",
-            "open_issues": 89,
+            "last_commit": "2026-10-23T18:55:43Z",
+            "open_issues": 98,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5720,
+            "stars": 5727,
             "topics": [
               "ai",
               "ai-agents",
@@ -181,8 +181,8 @@
             "id": 1116744615,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-22T20:08:19Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-23T20:00:04Z",
+            "open_issues": 18,
             "owner": "Th0rgal",
             "repo": "orb",
             "stars": 534,
@@ -376,7 +376,7 @@
             "open_issues": 9,
             "owner": "tao12345666333",
             "repo": "amp-acp",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "acp",
               "amp",
@@ -423,9 +423,9 @@
             "description": null,
             "homepage": null,
             "id": 1054397073,
-            "language": "Vim Script",
+            "language": "Lua",
             "license": null,
-            "last_commit": "2025-09-24T16:15:21Z",
+            "last_commit": "2026-10-23T17:31:03Z",
             "open_issues": 0,
             "owner": "aliou",
             "repo": "nvim-amp",
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:19:44.061Z",
+    "last_updated": "2026-10-23T20:07:28.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "An unofficial curated list of resources for Amp, an AI coding agent.",

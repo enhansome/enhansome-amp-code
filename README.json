@@ -63,8 +63,8 @@
             "id": 975914104,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T18:08:54Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-25T04:05:18Z",
+            "open_issues": 4,
             "owner": "istarwyh",
             "repo": "mcpadvisor",
             "stars": 89,
@@ -139,11 +139,11 @@
             "id": 1107676388,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-24T18:30:32Z",
+            "last_commit": "2026-10-25T15:07:30Z",
             "open_issues": 100,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5731,
+            "stars": 5740,
             "topics": [
               "ai",
               "ai-agents",
@@ -181,8 +181,8 @@
             "id": 1116744615,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-24T15:32:30Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-25T19:08:15Z",
+            "open_issues": 20,
             "owner": "Th0rgal",
             "repo": "orb",
             "stars": 534,
@@ -412,40 +412,15 @@
             ]
           },
           "first_seen": "2026-08-29T00:45:00.995Z"
-        },
-        {
-          "node_type": "item",
-          "title": "nvim-amp",
-          "description": "Neovim plugin providing syntax highlighting and support for Amp permission and agent files.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": null,
-            "homepage": null,
-            "id": 1054397073,
-            "language": "Lua",
-            "license": null,
-            "last_commit": "2026-10-23T17:31:03Z",
-            "open_issues": 0,
-            "owner": "aliou",
-            "repo": "nvim-amp",
-            "stars": 0,
-            "topics": [
-              "amp-cli",
-              "ampcode",
-              "sourcegraph"
-            ]
-          },
-          "first_seen": "2026-08-29T00:45:00.995Z"
         }
       ],
       "title": "Editor & IDE Integrations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:05:01.329Z",
+    "last_updated": "2026-10-25T19:20:03.684Z",
     "original_repository_info": {
-      "archived": false,
+      "archived": true,
       "description": "An unofficial curated list of resources for Amp, an AI coding agent.",
       "homepage": null,
       "id": 978091667,

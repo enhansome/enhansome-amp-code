@@ -72,7 +72,7 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 * [Use MCP](https://github.com/modelcontextprotocol/use-mcp) ⚠️ Archived - Official examples and utilities for MCP usage.
 * [Ultimate MCP Client](https://github.com/Dicklesworthstone/ultimate_mcp_client) ⭐ 171 | 🐛 0 | 🌐 Python | 📅 2026-10-14 - Comprehensive MCP client for testing and debugging servers.
-* [MCP Advisor](https://github.com/istarwyh/mcpadvisor) ⭐ 89 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-21 - Tool to help discover and configure MCP servers.
+* [MCP Advisor](https://github.com/istarwyh/mcpadvisor) ⭐ 89 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-25 - Tool to help discover and configure MCP servers.
 * [CleanShot MCP](https://github.com/jdorfman/cleanshot-mcp) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-06 - MCP server for CleanShot X screenshot and recording integration.
 * [llm-rules MCP](https://www.npmjs.com/package/llm-rules) - Access Cursor rules dynamically via MCP.
 
@@ -85,8 +85,8 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 **Development Tools:**
 
-* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,731 | 🐛 100 | 🌐 Rust | 📅 2026-10-24 - CLI tool for tracking token usage from AmpCode and other coding agents.
-* [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 534 | 🐛 19 | 🌐 Rust | 📅 2026-10-24 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
+* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,740 | 🐛 100 | 🌐 Rust | 📅 2026-10-25 - CLI tool for tracking token usage from AmpCode and other coding agents.
+* [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 534 | 🐛 20 | 🌐 Rust | 📅 2026-10-25 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
 * [Sniff](https://github.com/conikeec/sniff) ⭐ 23 | 🐛 0 | 🌐 Rust | 📅 2025-07-30 - Misalignment detection in Vibe Coding loops.
 * [CodeForge](https://github.com/entrepeneur4lyf/CodeForge) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2025-08-14 - Golang Development tool built with Amp.
 * [Unofficial Amp Supervisor](https://github.com/ctrl-cheeb-del/manager) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-28 - TUI control panel for managing multiple Amp CLI instances in parallel.
@@ -115,7 +115,7 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 * [amp.nvim](https://github.com/sourcegraph/amp.nvim) ⭐ 197 | 🐛 6 | 🌐 Lua | 📅 2026-08-03 - Official Neovim plugin for Amp coding agent.
 * [Amp ACP](https://github.com/tao12345666333/amp-acp) ⭐ 101 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-22 - ACP adapter for Amp Code, enabling Amp to work in the Zed editor.
 * [amp.el](https://github.com/shaneikennedy/amp.el) ⭐ 20 | 🐛 1 | 🌐 Emacs Lisp | 📅 2025-06-15 - Emacs integration for Amp coding agent.
-* [nvim-amp](https://github.com/aliou/nvim-amp) ⚠️ Archived - Neovim plugin providing syntax highlighting and support for Amp permission and agent files.
+* [nvim-amp](https://github.com/aliou/nvim-amp) - Neovim plugin providing syntax highlighting and support for Amp permission and agent files.
 * [MyScratchpad VS Code Extension](https://marketplace.visualstudio.com/items?itemName=jccoder.myscratchpad) - VS Code extension for global and workspace-specific scratch files.
 * [Amp Dash X](https://www.raycast.com/jdorfman/sourcegraph-amp-dash-x) - Raycast extension for organizing and executing Amp Code prompts.
 * [VibeKanban](https://www.vibekanban.com/) - CLI tool for managing your Kanban boards.
@@ -172,4 +172,4 @@ Originally created and maintained by [Justin Dorfman](https://www.justindorfman.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

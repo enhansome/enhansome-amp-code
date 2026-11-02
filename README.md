@@ -85,8 +85,8 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 **Development Tools:**
 
-* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,782 | 🐛 91 | 🌐 Rust | 📅 2026-10-30 - CLI tool for tracking token usage from AmpCode and other coding agents.
-* [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 698 | 🐛 24 | 🌐 Rust | 📅 2026-11-01 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
+* [Tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,793 | 🐛 88 | 🌐 Rust | 📅 2026-11-02 - CLI tool for tracking token usage from AmpCode and other coding agents.
+* [Sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh) ⭐ 702 | 🐛 21 | 🌐 Rust | 📅 2026-11-02 - Self-hosted cloud orchestrator for AI coding agents with isolated Linux environments.
 * [Sniff](https://github.com/conikeec/sniff) ⭐ 23 | 🐛 0 | 🌐 Rust | 📅 2025-07-30 - Misalignment detection in Vibe Coding loops.
 * [CodeForge](https://github.com/entrepeneur4lyf/CodeForge) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2025-08-14 - Golang Development tool built with Amp.
 * [Unofficial Amp Supervisor](https://github.com/ctrl-cheeb-del/manager) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-28 - TUI control panel for managing multiple Amp CLI instances in parallel.
@@ -112,8 +112,8 @@ Model Context Protocol (MCP) enables AI agents to interact with external tools a
 
 ### Editor & IDE Integrations
 
-* [amp.nvim](https://github.com/sourcegraph/amp.nvim) ⭐ 196 | 🐛 6 | 🌐 Lua | 📅 2026-08-03 - Official Neovim plugin for Amp coding agent.
-* [Amp ACP](https://github.com/tao12345666333/amp-acp) ⭐ 103 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-01 - ACP adapter for Amp Code, enabling Amp to work in the Zed editor.
+* [amp.nvim](https://github.com/sourcegraph/amp.nvim) ⭐ 197 | 🐛 6 | 🌐 Lua | 📅 2026-08-03 - Official Neovim plugin for Amp coding agent.
+* [Amp ACP](https://github.com/tao12345666333/amp-acp) ⭐ 103 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-01 - ACP adapter for Amp Code, enabling Amp to work in the Zed editor.
 * [amp.el](https://github.com/shaneikennedy/amp.el) ⭐ 20 | 🐛 1 | 🌐 Emacs Lisp | 📅 2025-06-15 - Emacs integration for Amp coding agent.
 * [nvim-amp](https://github.com/aliou/nvim-amp) - Neovim plugin providing syntax highlighting and support for Amp permission and agent files.
 * [MyScratchpad VS Code Extension](https://marketplace.visualstudio.com/items?itemName=jccoder.myscratchpad) - VS Code extension for global and workspace-specific scratch files.
@@ -172,4 +172,4 @@ Originally created and maintained by [Justin Dorfman](https://www.justindorfman.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

@@ -139,11 +139,11 @@
             "id": 1107676388,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-05T15:25:28Z",
-            "open_issues": 71,
+            "last_commit": "2026-11-06T03:20:22Z",
+            "open_issues": 74,
             "owner": "junhoyeo",
             "repo": "tokscale",
-            "stars": 5801,
+            "stars": 5804,
             "topics": [
               "ai",
               "ai-agents",
@@ -179,13 +179,13 @@
             "description": "All your AI providers, machines, and agent harnesses in one place. Free & native",
             "homepage": "https://orb.thomas.md",
             "id": 1116744615,
-            "language": "Rust",
+            "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-05T22:17:38Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-06T21:20:38Z",
+            "open_issues": 12,
             "owner": "Th0rgal",
             "repo": "orb",
-            "stars": 704,
+            "stars": 708,
             "topics": [
               "ai-agents",
               "autonomous-agents",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:23:49.198Z",
+    "last_updated": "2026-11-06T21:47:14.454Z",
     "original_repository_info": {
       "archived": true,
       "description": "An unofficial curated list of resources for Amp, an AI coding agent.",
